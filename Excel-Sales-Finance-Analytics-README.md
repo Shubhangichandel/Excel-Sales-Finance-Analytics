@@ -105,8 +105,8 @@ for offering such a valuable and beginner-friendly course that helped me build a
 ## 📬 Let's Connect
 
 **Shubhangi Chandel**  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-📧 your.email@example.com
+🔗 [LinkedIn](www.linkedin.com/in/shubhangi-chandel-ab5132231)  
+📧 shubhangichandel29@gmail.com
 
 ---
 
