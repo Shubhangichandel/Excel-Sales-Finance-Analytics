@@ -1,6 +1,6 @@
-# 📊 Excel Sales & Finance Analytics Project — *Codebasics Course*
+# 📊 Excel Sales & Finance Analytics Project - *Codebasics Course*
 
-This project is built as part of the **“Excel: Mother of Intelligence”** course by [Codebasics](https://www.codebasics.io/), focusing on real-world **Sales and Finance Analytics** using data from a fictional company — **AtliQ Hardwares**.
+This project is built as part of the **“Excel: Mother of Intelligence”** course by [Codebasics](https://www.codebasics.io/), focusing on real-world **Sales and Finance Analytics** using data from a fictional company - **AtliQ Hardwares**.
 
 ---
 
@@ -42,24 +42,6 @@ The dashboard helps the business understand financial health and performance met
   - **DAX Functions**: `SUM`, `CALCULATE`, `RELATED`, Calculated Columns
 - **Pivot Tables & Slicers** for report creation
 - **Conditional Formatting** for interactive visuals
-
----
-
-## 📂 Project Structure
-
-```
-Excel-Sales-Finance-Analytics/
-├── 📄 Sales_Finance_Dashboard.xlsx
-├── 📁 Data/
-│   ├── Customer Performance Report.pdf
-│   ├── Market Performance vs Target Report.pdf
-│   ├── P & L by Month.pdf
-│   ├── P & L by Year.pdf
-├── 📁 Screenshots/
-│   ├── dashboard_overview.png
-│   └── p&l_comparison.png
-└── README.md
-```
 
 ---
 
