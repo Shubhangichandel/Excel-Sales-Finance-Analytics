@@ -98,7 +98,7 @@ for offering such a valuable and beginner-friendly course that helped me build a
 
 - **Course**: [Excel: Mother of Intelligence – Codebasics](https://www.codebasics.io/)
 - **LinkedIn Project Post**: [[Click Here]](#) 
-- **GitHub Repo**: [Click Here](#) 
+- **GitHub Repo**: [Click Here](https://github.com/Shubhangichandel/Excel-Sales-Finance-Analytics.git) 
 
 ---
 
