@@ -90,7 +90,7 @@ Special thanks to:
 - **Dhaval Patel Sir**
 - **Hemanand Vadivel Sir**
 - The entire **Codebasics** team  
-for offering such a valuable and beginner-friendly course that helped me build a strong foundation in **Excel for Business Intelligence**.
+for offering such a valuable and beginner-friendly course that helped me build a strong foundation in **Excel: Mother of Intelligence**.
 
 ---
 
@@ -105,11 +105,7 @@ for offering such a valuable and beginner-friendly course that helped me build a
 ## 📬 Let's Connect
 
 **Shubhangi Chandel**  
-🔗 [LinkedIn](www.linkedin.com/in/shubhangi-chandel-ab5132231)  
+🔗 [LinkedIn] (www.linkedin.com/in/shubhangichandel-ab5132231)  
 📧 shubhangichandel29@gmail.com
 
 ---
-
-## 🏷️ Tags
-
-`Excel` `PowerQuery` `PowerPivot` `SalesAnalytics` `FinanceAnalytics` `DAX` `ETL` `BI` `CustomerPerformance` `BusinessDashboard` `Codebasics`
