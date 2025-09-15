@@ -97,8 +97,8 @@ for offering such a valuable and beginner-friendly course that helped me build a
 ## 🔗 Useful Links
 
 - **Course**: [Excel: Mother of Intelligence – Codebasics](https://www.codebasics.io/)
-- **LinkedIn Project Post**: [Click Here](#) *(Replace with your actual post link)*
-- **GitHub Repo**: [Click Here](#) *(Replace with your GitHub repo URL)*
+- **LinkedIn Project Post**: [[Click Here]](#) 
+- **GitHub Repo**: [Click Here](#) 
 
 ---
 
