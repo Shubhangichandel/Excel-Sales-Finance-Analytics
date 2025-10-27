@@ -97,7 +97,7 @@ for offering such a valuable and beginner-friendly course that helped me build a
 ## 🔗 Useful Links
 
 - **Course**: [Excel: Mother of Intelligence – Codebasics](https://www.codebasics.io/)
-- **LinkedIn Project Post**: [[Click Here]](#) 
+- **LinkedIn Project Post**: [[Click Here]](https://www.linkedin.com/posts/shubhangichandel-ab5132231_excelanalytics-codebasics-powerquery-activity-7375899738019151875-JVs6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADncoqkBg1rJR0259Dng2HevKyHVhqnaGnY) 
 - **GitHub Repo**: [Click Here](https://github.com/Shubhangichandel/Excel-Sales-Finance-Analytics.git) 
 
 ---
